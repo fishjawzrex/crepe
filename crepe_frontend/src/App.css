@@ -1,0 +1,31 @@
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
+
+.vert{
+  display:flex;
+  flex-direction: column;
+  margin: 20px;
+  width: 800px;
+  align-items: center;
+}
+
+.btn:hover{
+  cursor: pointer;
+  
+}
+
+.btn{
+  width: 70px;
+
+}
+
+
+.header{
+  position: relative;
+  margin: 200px;
+}
